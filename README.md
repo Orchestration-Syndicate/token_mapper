@@ -1,8 +1,6 @@
 # Token Mapper
 
-Kinda like Frankenstein: instead of mapping settings, it maps tokens.
-
-Perhaps calling it Frankenstein's Bride would be more appropriate.
+Kinda like the settings mapper: instead of mapping settings, it maps tokens.
 
 ## License
 
