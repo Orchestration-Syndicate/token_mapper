@@ -1,8 +1,8 @@
 # Token Mapper
 
-Kinda like Tokenmapper: instead of mapping settings, it maps tokens.
+Kinda like Frankenstein: instead of mapping settings, it maps tokens.
 
-Perhaps calling it Tokenmapper's Bride would be more appropriate.
+Perhaps calling it Frankenstein's Bride would be more appropriate.
 
 ## License
 
